@@ -1,0 +1,58 @@
+KAVITHA R9578238016	kavitharajan005@gmail.com
+Object Oriented Programming in Java with Data Structures | AICTE
+Java | IIT Spoken Tutorial
+Introduction to Machine Learning | NPTEL
+Languages: C, Java, JavaScript, HTML, CSS
+Frameworks & Libraries: React.js, Node.js, Express.js, FastAPI, Bootstrap, STT APIs (e.g., Deepgram), TTS APIs.
+Databases: MongoDB, SQL, Postgres
+Tools & Platforms: Git, GitHub, VS Code, Postman, Eclipse.
+linkedin.com/in/kavitha-r-617426a/
+(Feb'23)
+(May'24)
+(Jul’24 - Oct’24)
+Jan 2025 – Apr 2025
+Developed role-based dashboards connecting freelancers and clients, improving navigation ease.
+Enabled secure login using username or email with JWT, enhancing access protection.
+Created and optimized REST APIs, improving server response time by 30% and ensuring 99% uptime for client
+data services.
+React Vite Book Store
+Developer | React Vite, MongoDB, Express, Node.js
+May 2024 – Jul 2024
+Engineered a full-stack book store with React Vite and Node.js, enabling efficient CRUD operations for book inventory.
+Integrated MongoDB for robust and scalable data storage, supporting real-time data updates.
+Optimized backend API endpoints to improve data fetch speed and reduce latency across the application.
+Nov 2022 – Mar 2026
+CGPA : 8.15
+Jun 2021 – Mar 2022
+Percentage : 81.03%
+Jun 2019 – Mar 2020
+Percentage : 79.03%
+github.com/kavi-05
+Karpagam College of Engineering
+B.Tech Information Technology
+TECHNICAL SKILLS
+AI & Full-Stack Developer with MERN stack and FastAPI expertise, specializing in scalable, AI-driven
+applications. Experienced in end-to-end development, API design, and hands-on integration of LLM, STT, and
+TTS technologies. Seeking to build innovative, high-performance software.
+Vijayalakshmi Matric. Hr Sec School
+Secondary School Leaving Certificate (SSLC)
+Vijayalakshmi Matric. Hr Sec School
+Higher Secondary Certificate (HSC)
+EDUCATION
+PROJECTS
+CERTIFICATIONS
+Freelance Marketplace
+Developer | MERN Stack (MongoDB, Express, React, Node.js)
+WORK EXPERIENCE
+AI Developer Intern | Prayag.ai | (June 2025 – Present)
+Developing a conversational Business Development Agent by integrating Large Language Models (LLMs) with
+Deepgram (STT) and TTS APIs via a FastAPI backend.
+Engineered the complete call-handling workflow, connecting Twilio and LiveKit SIP trunks to the AI agent to manage
+real-time inbound and outbound calls.
+ACHIEVEMENTS
+Consistently maintained 8.0+ CGPA while working on internships and projects.
+Recognized for building end-to-end AI-integrated applications at Prayag.ai.
+CAREER OBJECTIVE
+
+-- 1 of 1 --
+
